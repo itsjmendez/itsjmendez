@@ -64,7 +64,7 @@ export default function Home() {
             />
           </Link>
         </div>
-        <h1 className="text-normal text-center pt-8">WIP 🥷</h1>
+        <h1 className="text-normal text-center pt-8">WIP 🥷✨</h1>
       </div>
     </main>
   );
