@@ -55,14 +55,14 @@ export default function Home() {
               height={28}
             />
           </Link>
-          <Link href="https://www.threads.net/@itsjmendez" target="_blank">
+          {/* <Link href="https://www.threads.net/@itsjmendez" target="_blank">
             <Image
               src={'/threads-icon.svg'}
               alt="Threads Logo"
               width={28}
               height={28}
             />
-          </Link>
+          </Link> */}
         </div>
       </div>
     </main>
