@@ -39,14 +39,14 @@ export default function Home() {
               height={28}
             />
           </Link>
-          <Link href="https://www.facebook.com/itsjmendez/" target="_blank">
+          {/* <Link href="https://www.facebook.com/itsjmendez/" target="_blank">
             <Image
               src={'/fb-icon.svg'}
               alt="FAcebook Logo"
               width={28}
               height={28}
             />
-          </Link>
+          </Link> */}
           {/* <Link href="https://www.instagram.com/itsjmendez/" target="_blank">
             <Image
               src={'/ig-icon.svg'}
