@@ -39,30 +39,6 @@ export default function Home() {
               height={20}
             />
           </Link>
-          {/* <Link href="https://www.facebook.com/itsjmendez/" target="_blank">
-            <Image
-              src={'/fb-icon.svg'}
-              alt="FAcebook Logo"
-              width={28}
-              height={28}
-            />
-          </Link> */}
-          {/* <Link href="https://www.instagram.com/itsjmendez/" target="_blank">
-            <Image
-              src={'/ig-icon.svg'}
-              alt="Instagram Logo"
-              width={28}
-              height={28}
-            />
-          </Link> */}
-          {/* <Link href="https://www.threads.net/@itsjmendez" target="_blank">
-            <Image
-              src={'/threads-icon.svg'}
-              alt="Threads Logo"
-              width={28}
-              height={28}
-            />
-          </Link> */}
         </div>
       </div>
     </main>
