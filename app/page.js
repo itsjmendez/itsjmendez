@@ -11,32 +11,32 @@ export default function Home() {
             <Image
               src={'/linkedIn-icon.svg'}
               alt="LinkedIn Logo"
-              width={20}
-              height={20}
+              width={22}
+              height={22}
             />
           </Link>
           <Link href="https://medium.com/@itsjmendez" target="_blank">
             <Image
               src={'/medium-icon.svg'}
               alt="Medium Logo"
-              width={20}
-              height={20}
+              width={22}
+              height={22}
             />
           </Link>
           <Link href="https://twitter.com/itsjmendez" target="_blank">
             <Image
               src={'/x-icon.svg'}
               alt="X Icon Logo"
-              width={20}
-              height={20}
+              width={22}
+              height={22}
             />
           </Link>
           <Link href="https://github.com/itsjmendez" target="_blank">
             <Image
               src={'/github-icon.svg'}
               alt="Github Logo"
-              width={20}
-              height={20}
+              width={22}
+              height={22}
             />
           </Link>
         </div>
