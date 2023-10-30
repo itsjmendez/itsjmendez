@@ -3,8 +3,8 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <main className="h-full p-4 flex justify-center items-center">
-      <div className=" pt-36">
+    <main className=" h-screen p-4 flex justify-center items-center align-middle">
+      <div className="">
         <h1 className="text-xl font-semibold text-center pb-8 font-sans">
           @itsjmendez
         </h1>
