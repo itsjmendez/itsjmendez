@@ -15,14 +15,14 @@ export default function Home() {
               height={22}
             />
           </Link>
-          {/* <Link href="https://medium.com/@itsjmendez" target="_blank">
+          <Link href="https://medium.com/@itsjmendez" target="_blank">
             <Image
               src={'/medium-icon.svg'}
               alt="Medium Logo"
               width={22}
               height={22}
             />
-          </Link> */}
+          </Link>
           <Link href="https://twitter.com/itsjmendez" target="_blank">
             <Image
               src={'/x-icon.svg'}
