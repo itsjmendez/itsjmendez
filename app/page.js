@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main className=" h-screen p-4 flex justify-center items-center align-middle">
       <div className="">
-        <h1 className="text-xl font-semibold text-center pb-8 font-sans">
-          @itsjmendez
+        <h1 className="text-4xl md:text-6xl font-semibold text-center pb-8 font-sans">
+          @ITSJMENDEZ
         </h1>
         <div className="grid grid-flow-row grid-rows-4 gap-4 place-items-center	">
           <Link href="https://www.linkedin.com/in/itsjmendez/" target="_blank">
