@@ -6,7 +6,7 @@ export default function Home() {
     <main className=" h-screen p-4 flex justify-center items-center align-middle">
       <div className="">
         <h1 className="text-4xl md:text-4xl text-center pb-8 font-mono font-bold">
-          ITSJMENDEZ
+          @ITSJMENDEZ
         </h1>
         <div className="grid grid-flow-row grid-rows-4 gap-4 place-items-center	">
           <Link href="https://www.linkedin.com/in/itsjmendez/" target="_blank">
