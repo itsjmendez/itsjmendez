@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className=" h-screen p-4 flex justify-center items-center align-middle">
       <div className="">
-        <h1 className="text-4xl md:text-6xl text-center pb-8 font-mono font-bold">
+        <h1 className="text-4xl md:text-6xl text-center pb-8 font-mono">
           @ITSJMENDEZ
         </h1>
         <div className="grid grid-flow-row grid-rows-4 gap-4 place-items-center	">
